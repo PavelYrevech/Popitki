@@ -1,0 +1,15 @@
+D:\abc\Popa\bin\Debug\net7.0\Popa.exe
+D:\abc\Popa\bin\Debug\net7.0\Popa.deps.json
+D:\abc\Popa\bin\Debug\net7.0\Popa.runtimeconfig.json
+D:\abc\Popa\bin\Debug\net7.0\Popa.dll
+D:\abc\Popa\bin\Debug\net7.0\Popa.pdb
+D:\abc\Popa\obj\Debug\net7.0\Popa.csproj.AssemblyReference.cache
+D:\abc\Popa\obj\Debug\net7.0\Popa.GeneratedMSBuildEditorConfig.editorconfig
+D:\abc\Popa\obj\Debug\net7.0\Popa.AssemblyInfoInputs.cache
+D:\abc\Popa\obj\Debug\net7.0\Popa.AssemblyInfo.cs
+D:\abc\Popa\obj\Debug\net7.0\Popa.csproj.CoreCompileInputs.cache
+D:\abc\Popa\obj\Debug\net7.0\Popa.dll
+D:\abc\Popa\obj\Debug\net7.0\refint\Popa.dll
+D:\abc\Popa\obj\Debug\net7.0\Popa.pdb
+D:\abc\Popa\obj\Debug\net7.0\Popa.genruntimeconfig.cache
+D:\abc\Popa\obj\Debug\net7.0\ref\Popa.dll
